@@ -2,6 +2,8 @@
 - 👀 I’m interested in learning new coding tecniques 
 - 🌱 I’m currently Pursuing MCA in presidency university
 - 📫 How to reach me surajkrishna7022@gmail.com
+- learnt Java Front End Develeopment
+- Basics of Ethical Hacking
 
 
 
