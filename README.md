@@ -1,9 +1,12 @@
-- 👋 Hi, I’m(suraj au) @GamingTyson
-- 👀 I’m interested in learning new coding tecniques 
-- 🌱 I’m currently Pursuing MCA in presidency university
-- 📫 How to reach me surajkrishna7022@gmail.com
-- learnt Java Front End Develeopment
-- Basics of Ethical Hacking
+👋 Hi, I’m Suraj Au (@GamingTyson)
+
+🔍 Interested in exploring new coding techniques and problem-solving approaches
+
+🎓 MCA graduate from Presidency University
+
+🛠️ Skills: Java, Front-End Development, Linux OS, Troubleshooting, Basics of Ethical Hacking
+
+📫 Reach me at: surajkrishna7022@gmail.com
 
 
 
